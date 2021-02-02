@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My github profile is under contruction. `:ok_hand:`
+My github profile is under contruction. 👌
 
 [![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cornflake15&show_icons=True&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
