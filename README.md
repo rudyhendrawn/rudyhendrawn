@@ -8,13 +8,13 @@ I'm a data and machine learning enthusiast, a father :family_man_woman_boy_boy:,
 
 - 👯 I’m looking to collaborate on **Aksara Bali image extraction** and **Aksara Bali image classification**.
 
-- 🚀 I use daily for dev: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 🚀 I use daily for dev: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) ![Jupyter](https://img.shields.io/badge/-Jupyter-grey?style=plastic&logo=jupyter) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) 
 	
-- :microscope: I also use for research: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-ede9e5?style=plastic&logo=tensorflow) ![Pytorch](https://img.shields.io/badge/-Pytorch-lightgrey?style=plastic&logo=Pytorch) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)  
+- :microscope: I also use for research: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-ede9e5?style=plastic&logo=tensorflow) ![Pytorch](https://img.shields.io/badge/-Pytorch-lightgrey?style=plastic&logo=Pytorch) ![Pandas](https://img.shields.io/badge/-Pandas-brightgreen?style=plastic&logo=pandas) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)  
 
 - :computer: I teach: ![C++](https://img.shields.io/badge/-C++-9cf?style=plastic&logo=cplusplus) ![Java](https://img.shields.io/badge/-Java-orange?style=plastic&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=plastic&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-white?style=plastic&logo=php)
 
-- :muscle: I still learn: ![Tensorflow](https://img.shields.io/badge/-Tensorflow-ede9e5?style=plastic&logo=tensorflow) ![Pytorch](https://img.shields.io/badge/-Pytorch-lightgrey?style=plastic&logo=Pytorch) ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+- :muscle: I am learning: ![Tensorflow](https://img.shields.io/badge/-Tensorflow-ede9e5?style=plastic&logo=tensorflow) ![Pytorch](https://img.shields.io/badge/-Pytorch-lightgrey?style=plastic&logo=Pytorch) ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![Amazon Aws](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=plastic&logo=amazonaws) ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react) ![Stream Lit](https://img.shields.io/badge/-StreamLit-232F3E?style=plastic&logo=streamlit)
 
 
 [![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cornflake15&show_icons=True&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
