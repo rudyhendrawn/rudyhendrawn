@@ -10,7 +10,7 @@ I'm a data and machine learning enthusiast, a father :family_man_woman_boy_boy:,
 
 - 🚀 I use daily for dev: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 	
-- :microscope: I also use for research: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-ede9e5?style=plastic&logo=tensorflow) ![Pytorch](https://img.shields.io/badge/-Pytorch-lightgrey?style=plastic&logo=Pytorch)
+- :microscope: I also use for research: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-ede9e5?style=plastic&logo=tensorflow) ![Pytorch](https://img.shields.io/badge/-Pytorch-lightgrey?style=plastic&logo=Pytorch) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)  
 
 - :computer: I teach: ![C++](https://img.shields.io/badge/-C++-9cf?style=plastic&logo=cplusplus) ![Java](https://img.shields.io/badge/-Java-orange?style=plastic&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=plastic&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-white?style=plastic&logo=php)
 
