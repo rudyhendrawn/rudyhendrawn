@@ -17,10 +17,10 @@ I'm a data and machine learning enthusiast, a father :family_man_woman_boy_boy:,
 - :muscle: I am learning: ![Tensorflow](https://img.shields.io/badge/-Tensorflow-ede9e5?style=plastic&logo=tensorflow) ![Pytorch](https://img.shields.io/badge/-Pytorch-lightgrey?style=plastic&logo=Pytorch) ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![Amazon Aws](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=plastic&logo=amazonaws) ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react) ![Stream Lit](https://img.shields.io/badge/-StreamLit-232F3E?style=plastic&logo=streamlit)
 
 
-[![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cornflake15&show_icons=True&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudyhendrawn&show_icons=True&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**cornflake15/cornflake15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rudyhendrawn/rudyhendrawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
