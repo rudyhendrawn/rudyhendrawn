@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rudy Hendrawan
-I'm a data and machine learning enthusiast, a father :family_man_woman_boy_boy:, husband :couple:, researcher :computer:, and educator :books:.
+I'm a data science enthusiast and applied machine learning researcher at Institut Teknologi dan Bisnis STIKOM Bali, a father :family_man_woman_boy_boy:, husband :couple:, researcher :computer:, and educator :books:.
 
 [![Twitter Badge](https://img.shields.io/badge/-dyruu-9cf?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/dy_ruu)](https://twitter.com/dy_ruu) [![Linkedin Badge](https://img.shields.io/badge/-rudyhendrawan-informational?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudy-hendrawan/)](https://www.linkedin.com/in/rudy-hendrawan/)
 
