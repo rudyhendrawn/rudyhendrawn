@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Rudy Hendrawan
-I'm a data science enthusiast and applied machine learning researcher at Institut Teknologi dan Bisnis STIKOM Bali, a father :family_man_woman_boy_boy:, husband :couple:, researcher :computer:, and educator :books:.
+I'm a data science enthusiast and applied machine learning researcher at Institut Teknologi dan Bisnis STIKOM Bali, a father :family_man_woman_boy_boy:, a husband :couple:, a researcher :computer:, and an educator :books:.
 
 [![Twitter Badge](https://img.shields.io/badge/-dyruu-9cf?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/dy_ruu)](https://twitter.com/dy_ruu) [![Linkedin Badge](https://img.shields.io/badge/-rudyhendrawan-informational?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudy-hendrawan/)](https://www.linkedin.com/in/rudy-hendrawan/)
 
 
-- 🔭 I’m currently working on **Balinese dance action recognition** with [Tedja](https://github.com/andikatedja), **Aksara Bali image character extraction**, **Aksara Bali image character classification** with [Satria](https://github.com/mdsatria)
+- 🔭 I’m currently working on **Balinese dance action recognition** with [Tedja](https://github.com/andikatedja) and [Dwipa](https://github.com/eternalbeginner),  **Aksara Bali image character extraction**, **Aksara Bali image character classification** with [Satria](https://github.com/mdsatria)
 
 - 👯 I’m looking to collaborate on **Aksara Bali image extraction** and **Aksara Bali image classification**.
 
