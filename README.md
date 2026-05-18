@@ -46,7 +46,7 @@ Over the last two years, my public GitHub activity has focused on:
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://metrics.lecoq.io/rudyhendrawn?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Asia%2FJakarta)
+![Metrics](./github-metrics.svg)
 
 ---
 
